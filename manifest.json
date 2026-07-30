@@ -1,0 +1,9 @@
+{
+  "name": "Portfolio Rayane",
+  "short_name": "Portfolio",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait"
+}
